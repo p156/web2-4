@@ -14,3 +14,10 @@ body{
   float: left;
   margin-right: 30px;
 }
+
+#ingredient{
+  border: 2px solind lightcoral;
+}
+th, td{
+  border: 1px solid lightcoral;
+}
