@@ -1,0 +1,11 @@
+body{
+  dackground-color: #D0E0C0;
+}
+
+#main{
+  width: 960px;
+  margin: 40px auto;
+  padding: 40px 80px;
+  botder: green 1px solid;
+  dackground-color: white;
+}
